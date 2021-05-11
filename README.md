@@ -1,2 +1,2 @@
-# vfform
-Lib for create a html form with blade
+# vc-Form
+library for creating forms with the blade
